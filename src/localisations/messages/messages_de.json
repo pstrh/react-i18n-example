@@ -1,0 +1,17 @@
+{
+    "example.simpleText": "Ein einfacher Übersetzungstext",
+    "example.textWithPlaceholder": "Wir nutzen {technology}",
+    "example.plural": "TIMOCOM hat {count, plural, one {eine Entwicklerstelle} other {# Entwicklerstellen}} zu besetzen.",
+    "example.format": "Die Anwendung ist zu {completionStatus, number, percent} fertig!",
+
+    "example.heading": "React Intl-Beispiele",
+    "example.messageFeatures.heading": "FormattedMessage (ICU Message Format)",
+    "example.formatFeatures.heading": "FormattedNumber, FormattedDate und FormattedRelative",
+    "example.customNumberInput.heading": "Eigene NumberInput-Komponente (Beispiel)",
+
+    "example.languageDropdown.label": "Sprache hier wechseln",
+    "example.languageDropdown.german": "Deutsch",
+    "example.languageDropdown.english": "Englisch",
+
+    "example.intlNumberInput.value": "Wert: {value}"
+}

@@ -1,0 +1,8 @@
+.card-body span {
+    display: block;
+    line-height: 1.25;
+}
+
+.reactInltExample .card + .card {
+    margin-top: 0.75rem;
+}

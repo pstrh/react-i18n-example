@@ -1,0 +1,17 @@
+{
+    "example.simpleText": "A simple text.",
+    "example.textWithPlaceholder": "We use {technology}.",
+    "example.plural": "TIMOCOM has {count, plural, one {one open developer job} other {# open developer jobs}}.",
+    "example.format": "Completion status of this application is {completionStatus, number, percent}!",
+
+    "example.heading": "React Intl examples",
+    "example.messageFeatures.heading": "FormattedMessage (ICU Message Format)",
+    "example.formatFeatures.heading": "FormattedNumber, FormattedDate and FormattedRelative",
+    "example.customNumberInput.heading": "Custom number input (example)",
+
+    "example.languageDropdown.label": "Change language here",
+    "example.languageDropdown.german": "German",
+    "example.languageDropdown.english": "English",
+
+    "example.intlNumberInput.value": "Value: {value}"
+}
